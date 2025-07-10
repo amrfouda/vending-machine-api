@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "uDxlN7Pp4Rs=",
+  "dgSpecHash": "OYYfHVItTrc=",
   "success": true,
   "projectFilePath": "D:\\Study\\Projects\\Vending_Machine\\Vending_Machine.csproj",
   "expectedPackageFiles": [
@@ -20,6 +20,7 @@
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.7\\microsoft.entityframeworkcore.abstractions.9.0.7.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\9.0.7\\microsoft.entityframeworkcore.analyzers.9.0.7.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.entityframeworkcore.design\\9.0.7\\microsoft.entityframeworkcore.design.9.0.7.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\9.0.7\\microsoft.entityframeworkcore.inmemory.9.0.7.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\9.0.7\\microsoft.entityframeworkcore.relational.9.0.7.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\9.0.7\\microsoft.entityframeworkcore.sqlite.9.0.7.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\9.0.7\\microsoft.entityframeworkcore.sqlite.core.9.0.7.nupkg.sha512",
